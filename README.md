@@ -18,10 +18,11 @@ This workflow has 2 operators:
 * [mean_operator](https://github.com/tercen/mean_operator)
 * [DRC4 fit operator](https://github.com/tercen/DRC_fit_operator)
 
-This workflow has 2 views:
+This workflow has 3 views:
 
 * Modulation Profiles
 * Modulation Heatmap
+* Curve fits
 
 ##### See Also
 
