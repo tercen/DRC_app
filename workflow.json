@@ -2,9 +2,9 @@
   "kind": "Workflow",
   "id": "33fb64086c3295748ed979a87b5cc788",
   "isDeleted": false,
-  "rev": "43-5887197e059773ca4e73ea8082712538",
+  "rev": "67-513c2056cf80d4df32f8fed7dfe945f9",
   "description": "Performs a Dose Response Curve fitting of the data.",
-  "name": "DRC_generic",
+  "name": "DRC_app",
   "createdBy": "Martin",
   "acl": {
     "kind": "Acl",
@@ -17,7 +17,7 @@
   },
   "lastModifiedDate": {
     "kind": "Date",
-    "value": "2021-10-11T08:33:12.170028Z"
+    "value": "2022-01-11T09:18:24.897928Z"
   },
   "urls": [
     {
@@ -311,7 +311,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "filters": {
           "kind": "Filters",
@@ -362,7 +363,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "taskId": ""
       },
@@ -557,7 +559,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "filters": {
           "kind": "Filters",
@@ -614,7 +617,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "taskId": ""
       },
@@ -803,7 +807,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "filters": {
           "kind": "Filters",
@@ -854,7 +859,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "taskId": ""
       },
@@ -1056,7 +1062,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "filters": {
           "kind": "Filters",
@@ -1126,7 +1133,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "taskId": ""
       },
@@ -1180,6 +1188,7 @@
         "kind": "WizardStepModel",
         "namespace": "DRC",
         "description": "",
+        "appDesignType": "",
         "factors": [
           {
             "kind": "MappingFactor",
@@ -1690,7 +1699,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "filters": {
           "kind": "Filters",
@@ -1741,7 +1751,8 @@
               }
             }
           ],
-          "rectangleSelections": []
+          "rectangleSelections": [],
+          "nRows": 0
         },
         "taskId": ""
       },
